@@ -1,4 +1,4 @@
 # Counting-moving-objects-ultrasound
-This is a program to count moving objects using ultrasound.
+This is a program to count moving objects using a single ultrasound sensor.
 Program can read every object that crosses it even within 50ms.
 The code for reading the count is stored in "parallel.ino" file
